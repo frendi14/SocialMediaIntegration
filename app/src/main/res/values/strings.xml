@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Social Media Login</string>
+    <string name="clientGoogleId">446250858835-tkr97t5s7967ik1buqtdmul8s9lm7o8q.apps.googleusercontent.com</string>
+    <string name="clientGoogleSecret">ihFubA0xwK8ZhCX-ZOU5qkCR</string>
+
+    <string name="facebook_app_id">466778113871005</string>
+    <string name="fb_login_protocol_scheme">fb466778113871005</string>
+
+</resources>
